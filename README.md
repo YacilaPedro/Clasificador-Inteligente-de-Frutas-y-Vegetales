@@ -1,6 +1,6 @@
 ---
 title: "Clasificador de Frutas y Vegetales"
-author: "Ciencias de Datos 2 – Prof. Aldo Richard Meza Rodriguez"
+author: "Grupo 5"
 date: "`r Sys.Date()`"
 output: html_document
 ---
